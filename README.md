@@ -21,4 +21,9 @@ In the project directory, you can run:
 ### `npm start`
 
 
+## Proposta
+Faça um formulário de músicas com título, nome do autor, nome
+da gravadora, ano de lançamento e envie para a API https://
+jsonplaceholder.typicode.com/posts
+
 
